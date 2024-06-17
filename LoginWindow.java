@@ -1,14 +1,8 @@
 import javax.swing.*;
-
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.fasterxml.jackson.databind.ObjectMapper;
-
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
-import java.io.IOException;
-import java.util.TreeMap;
 
 public class LoginWindow extends JFrame {
     private JTextField usernameField;

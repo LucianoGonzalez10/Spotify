@@ -6,19 +6,16 @@ public class Cancion implements Comparable<Cancion> {
     String genero;
     String rutaCancion;
     String rutaPortada;
-    String rutaMG;
 
     @JsonBackReference
     Playlist playlist;
 
-    public Cancion(int id, String nombre, String genero, String rutaCancion, String rutaPortada, String rutaMG) {
+    public Cancion(int id, String nombre, String genero, String rutaCancion, String rutaPortada) {
         this.id = id;
         this.nombre = nombre;
         this.genero = genero;
         this.rutaCancion = rutaCancion;
-        this.rutaPortada = rutaPortada;
-        this.rutaMG = rutaMG;
-    }
+        this.rutaPortada = rutaPortada;    }
 
     public Cancion() {
     }
@@ -39,10 +36,7 @@ public class Cancion implements Comparable<Cancion> {
         return rutaCancion;
     }
 
-    public String getRutaMG() {
-        return rutaMG;
-    }
-
+   
     public String getRutaPortada() {
         return rutaPortada;
     }
@@ -63,9 +57,7 @@ public class Cancion implements Comparable<Cancion> {
         this.rutaCancion = rutaCancion;
     }
 
-    public void setRutaMG(String rutaMG) {
-        this.rutaMG = rutaMG;
-    }
+
 
     public void setRutaPortada(String rutaPortada) {
         this.rutaPortada = rutaPortada;

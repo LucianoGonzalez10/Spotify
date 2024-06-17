@@ -286,9 +286,8 @@ public class MenuAdmin extends JFrame {
             String genero = JOptionPane.showInputDialog("Ingrese el género:");
             String rutaCancion = JOptionPane.showInputDialog("Ingrese la URL de la canción:");
             String rutaPortada = JOptionPane.showInputDialog("Ingrese la URL de la portada:");
-            String rutaMG = JOptionPane.showInputDialog("Ingrese la URL del like:");
 
-            Cancion nuevaCancion = new Cancion(id, nombre, genero, rutaCancion, rutaPortada, rutaMG);
+            Cancion nuevaCancion = new Cancion(id, nombre, genero, rutaCancion, rutaPortada);
             DefaultListModel<Cancion> modeloLista = (DefaultListModel<Cancion>) listaCanciones.getModel();
             modeloLista.addElement(nuevaCancion);
 

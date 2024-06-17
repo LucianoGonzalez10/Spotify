@@ -4,159 +4,153 @@
     "nombre" : "Lala",
     "genero" : "Reggaeton",
     "rutaCancion" : "audio/Myke-Lala.wav",
-    "rutaPortada" : "Media/MykeTowers.jpg",
-    "rutaMG" : "Media/..."
+    "rutaPortada" : "Media/LalaPortada.png"
   },
   "2" : {
     "id" : 2,
     "nombre" : "La Falda",
     "genero" : "Reggaeton",
     "rutaCancion" : "audio/Myke-LaFalda.wav",
-    "rutaPortada" : "Media/CruzCafune.jpg",
-    "rutaMG" : "Media/..."
+    "rutaPortada" : "Media/LaFaldaPortada.png"
   },
   "3" : {
     "id" : 3,
-    "nombre" : "Myke-Piensan",
+    "nombre" : "Piensan",
     "genero" : "Reggaeton",
     "rutaCancion" : "audio/Myke-Piensan.wav",
-    "rutaPortada" : "Media/Feid.jpg",
-    "rutaMG" : "Media/..."
+    "rutaPortada" : "Media/PiensanPortada.png"
   },
   "4" : {
     "id" : 4,
-    "nombre" : "RKT Live Set MDQ",
-    "genero" : "RKT",
+    "nombre" : "Call Me Baby",
+    "genero" : "Trap",
     "rutaCancion" : "audio/Call-Me-Baby.wav",
-    "rutaPortada" : "Media/CRO.jpg",
-    "rutaMG" : "Media/..."
+    "rutaPortada" : "Media/CallMeMaybePortada.png"
   },
   "5" : {
     "id" : 5,
-    "nombre" : "Wow",
-    "genero" : "Trap",
-    "rutaCancion" : "audio/Call-Me-Baby.wav",
-    "rutaPortada" : "Media/ACRU.jpg",
-    "rutaMG" : "Media/..."
+    "nombre" : "Normal",
+    "genero" : "Reggaeton",
+    "rutaCancion" : "audio/Feid-Normal.wav",
+    "rutaPortada" : "Media/NormalPortada.png"
   },
   "6" : {
     "id" : 6,
     "nombre" : "Mina el Hammani",
     "genero" : "Trap",
-    "rutaCancion" : "audio/Cruz-Mina-El-Hammani.wav",
-    "rutaPortada" : "Media/Cruz.png",
-    "rutaMG" : "Media/..."
+    "rutaCancion" : "audio\\Cruz-Mina-El-Hammani.wav",
+    "rutaPortada" : "Media/MinaElHammaniPortada.png"
   },
   "7" : {
     "id" : 7,
     "nombre" : "Contando Lunares",
     "genero" : "Trap",
     "rutaCancion" : "audio/Cruz-Contando-Lunares.wav",
-    "rutaPortada" : "Media/ACRU.jpg",
-    "rutaMG" : "Media/Cruz.png"
+    "rutaPortada" : "Media/contando.jpeg"
   },
   "8" : {
     "id" : 8,
-    "nombre" : " ",
+    "nombre" : "Un Monton",
     "genero" : "Trap",
-    "rutaCancion" : "audio/Call-Me-Baby.wav",
-    "rutaPortada" : "Media/ACRU.jpg",
-    "rutaMG" : "Media/Cruz.png"
+    "rutaCancion" : "audio\\Duki-Un-Monton.wav",
+    "rutaPortada" : "Media/UnMontonPortada.png"
   },
   "9" : {
     "id" : 9,
-    "nombre" : " ",
-    "genero" : "Trap",
-    "rutaCancion" : "audio/Call-Me-Baby.wav",
-    "rutaPortada" : "Media/ACRU.jpg",
-    "rutaMG" : "Media/Cruz.png"
+    "nombre" : "Feliz Cumplea Ferxxo",
+    "genero" : "Reggaeton",
+    "rutaCancion" : "audio/Feid-FelizCum.wav",
+    "rutaPortada" : "Media/FelizCumplePortada.png"
   },
   "10" : {
     "id" : 10,
-    "nombre" : " ",
-    "genero" : "Trap",
-    "rutaCancion" : "audio/Call-Me-Baby.wav",
-    "rutaPortada" : "Media/ACRU.jpg",
-    "rutaMG" : "Media/Cruz.png"
+    "nombre" : "Vato",
+    "genero" : "Hip Hop",
+    "rutaCancion" : "audio/Snoop-Vato.wav",
+    "rutaPortada" : "Media/VatoPortada.png"
   },
   "11" : {
     "id" : 11,
     "nombre" : "Algo Magico",
     "genero" : "Reggaeton",
     "rutaCancion" : "audio/Rauw-Algo-Magico.wav",
-    "rutaPortada" : "Media/ACRU.jpg",
-    "rutaMG" : "Media/..."
+    "rutaPortada" : "Media/AlgoMagicoPortada.png"
   },
   "12" : {
     "id" : 12,
-    "nombre" : "Juan",
-    "genero" : "Trap",
-    "rutaCancion" : "audio/Call-Me-Baby.wav",
-    "rutaPortada" : "Media/ACRU.jpg",
-    "rutaMG" : "Media/..."
+    "nombre" : "Wild And Free",
+    "genero" : "Hip Hop",
+    "rutaCancion" : "audio/Snoop-WildFree.wav",
+    "rutaPortada" : "Media/WildAndFreePortada.png"
   },
   "13" : {
     "id" : 13,
-    "nombre" : " ",
+    "nombre" : "Besame Remix",
     "genero" : "Trap",
-    "rutaCancion" : "audio/Call-Me-Baby.wav",
-    "rutaPortada" : "Media/ACRU.jpg",
-    "rutaMG" : "Media/..."
+    "rutaCancion" : "audio/Besame-Remix.wav",
+    "rutaPortada" : "Media/BesameRemixPortada.png"
   },
   "14" : {
     "id" : 14,
-    "nombre" : " ",
-    "genero" : "Trap",
-    "rutaCancion" : "audio/Call-Me-Baby.wav",
-    "rutaPortada" : "Media/ACRU.jpg",
-    "rutaMG" : "Media/..."
+    "nombre" : "Porfa",
+    "genero" : "Reggaeton",
+    "rutaCancion" : "audio/Feid-Porfa.wav",
+    "rutaPortada" : "Media/PorfaPortada.png"
   },
   "15" : {
     "id" : 15,
-    "nombre" : " ",
-    "genero" : "Trap",
-    "rutaCancion" : "audio/Call-Me-Baby.wav",
-    "rutaPortada" : "Media/ACRU.jpg",
-    "rutaMG" : "Media/..."
+    "nombre" : "Riders on Storm",
+    "genero" : "Hip Hop",
+    "rutaCancion" : "audio/Snoop-Riders.wav",
+    "rutaPortada" : "Media/RidersOnTheStormPortada.png"
   },
   "16" : {
     "id" : 16,
-    "nombre" : " ",
-    "genero" : "Trap",
-    "rutaCancion" : "audio/Call-Me-Baby.wav",
-    "rutaPortada" : "Media/ACRU.jpg",
-    "rutaMG" : "Media/..."
+    "nombre" : "Explicito",
+    "genero" : "Reggaeton",
+    "rutaCancion" : "audio/Myke-Explicito.wav",
+    "rutaPortada" : "Media/ExplicitoPortada.png"
   },
   "17" : {
     "id" : 17,
-    "nombre" : " ",
-    "genero" : "Trap",
-    "rutaCancion" : "audio/Call-Me-Baby.wav",
-    "rutaPortada" : "Media/ACRU.jpg",
-    "rutaMG" : "Media/..."
+    "nombre" : "Drop It Like It is Hot",
+    "genero" : "Hip Hop",
+    "rutaCancion" : "audio/Snoop-Drop.wav",
+    "rutaPortada" : "Media/DropItPortada.png"
   },
   "18" : {
     "id" : 18,
-    "nombre" : " ",
-    "genero" : "Trap",
-    "rutaCancion" : "audio/Call-Me-Baby.wav",
-    "rutaPortada" : "Media/ACRU.jpg",
-    "rutaMG" : "Media/..."
+    "nombre" : "Relacion Rota",
+    "genero" : "Reggaeton",
+    "rutaCancion" : "audio/Myke-Relacion.wav",
+    "rutaPortada" : "Media/RelacionPortada.png"
   },
   "19" : {
     "id" : 19,
-    "nombre" : " ",
-    "genero" : "Trap",
-    "rutaCancion" : "audio/Call-Me-Baby.wav",
-    "rutaPortada" : "Media/ACRU.jpg",
-    "rutaMG" : "Media/..."
+    "nombre" : "Tu",
+    "genero" : "Reggaeton",
+    "rutaCancion" : "audio/Myke-Tu.wav",
+    "rutaPortada" : "Media/TuPortada.png"
   },
   "20" : {
     "id" : 20,
-    "nombre" : " ",
-    "genero" : "Trap",
-    "rutaCancion" : "audio/Call-Me-Baby.wav",
-    "rutaPortada" : "Media/ACRU.jpg",
-    "rutaMG" : "Media/..."
+    "nombre" : "Diosa",
+    "genero" : "Reggaeton",
+    "rutaCancion" : "audio/Myke-Diosa.wav",
+    "rutaPortada" : "Media/DiosaPortada.png"
+  },
+  "21" : {
+    "id" : 21,
+    "nombre" : "Otro",
+    "genero" : "Reggaeton",
+    "rutaCancion" : "audio/Myke-Otro.wav",
+    "rutaPortada" : "Media/OtroPortada.png"
+  },
+  "22" : {
+    "id" : 22,
+    "nombre" : "Inocente",
+    "genero" : "Reggaeton",
+    "rutaCancion" : "audio/Myke-Inocente.wav",
+    "rutaPortada" : "Media/InocentePortada.png"
   }
 }

@@ -8,7 +8,7 @@ import java.io.File;
 import java.util.ArrayList;
 
 public class ReproductorMusica extends JFrame implements ActionListener, ChangeListener {
-    private JButton playPauseButton, prevButton, nextButton;
+    private JButton playPauseButton;
     private JLabel timeLabel, coverLabel;
     private JSlider timeSlider;
     private Clip clip;
@@ -86,10 +86,6 @@ public class ReproductorMusica extends JFrame implements ActionListener, ChangeL
             } else {
                 reproducirCancion();
             }
-        } else if (e.getSource() == prevButton) {
-            reproducirCancionAnterior();
-        } else if (e.getSource() == nextButton) {
-            reproducirSiguienteCancion();
         }
     }
 
