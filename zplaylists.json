@@ -1,0 +1,91 @@
+{
+  "Trap" : {
+    "nombre" : "Trap",
+    "cancionesPlaylist" : [ {
+      "id" : 2,
+      "nombre" : "La Falda",
+      "genero" : "Reggaeton",
+      "rutaCancion" : "audio/Myke-LaFalda.wav",
+      "rutaPortada" : "Media/CruzCafune.jpg",
+      "rutaMG" : "Media/..."
+    }, {
+      "id" : 1,
+      "nombre" : "Lala",
+      "genero" : "Reggaeton",
+      "rutaCancion" : "audio/Myke-Lala.wav",
+      "rutaPortada" : "Media/MykeTowers.jpg",
+      "rutaMG" : "Media/..."
+    }, {
+      "id" : 3,
+      "nombre" : "Myke-Piensan",
+      "genero" : "Reggaeton",
+      "rutaCancion" : "audio/Myke-Piensan.wav",
+      "rutaPortada" : "Media/Feid.jpg",
+      "rutaMG" : "Media/..."
+    }, {
+      "id" : 4,
+      "nombre" : "RKT Live Set MDQ",
+      "genero" : "RKT",
+      "rutaCancion" : "audio/Call-Me-Baby.wav",
+      "rutaPortada" : "Media/CRO.jpg",
+      "rutaMG" : "Media/..."
+    }, {
+      "id" : 5,
+      "nombre" : "Wow",
+      "genero" : "Trap",
+      "rutaCancion" : "audio/Call-Me-Baby.wav",
+      "rutaPortada" : "Media/ACRU.jpg",
+      "rutaMG" : "Media/..."
+    } ],
+    "portada" : "Media/Trap.png"
+  },
+  "Reggaeton" : {
+    "nombre" : "Reggaeton",
+    "cancionesPlaylist" : [ {
+      "id" : 10,
+      "nombre" : " ",
+      "genero" : "Trap",
+      "rutaCancion" : "audio/Call-Me-Baby.wav",
+      "rutaPortada" : "Media/ACRU.jpg",
+      "rutaMG" : "Media/Cruz.png"
+    }, {
+      "id" : 12,
+      "nombre" : "Juan",
+      "genero" : "Trap",
+      "rutaCancion" : "audio/Call-Me-Baby.wav",
+      "rutaPortada" : "Media/ACRU.jpg",
+      "rutaMG" : "Media/..."
+    } ],
+    "portada" : "Media/Reggaeton.png"
+  },
+  "Hip Hop" : {
+    "nombre" : "Hip Hop",
+    "cancionesPlaylist" : [ ],
+    "portada" : "Media/hiphop.png"
+  },
+  "Cruz Cafune" : {
+    "nombre" : "Cruz Cafune",
+    "cancionesPlaylist" : [ ],
+    "portada" : "Media/CruzCafune.jpg"
+  },
+  "Feid" : {
+    "nombre" : "Feid",
+    "cancionesPlaylist" : [ ],
+    "portada" : "Media/Feid.jpg"
+  },
+  "Myke Towers" : {
+    "nombre" : "Myke Towers",
+    "cancionesPlaylist" : [ ],
+    "portada" : "Media/MykeTowers.jpg"
+  },
+  "Rauw Alejandro" : {
+    "nombre" : "Rauw Alejandro",
+    "cancionesPlaylist" : [ ],
+    "portada" : "Media/RauwAlejandro.jpg"
+  },
+  "Snoop Dog" : {
+    "nombre" : "Snoop Dog",
+    "cancionesPlaylist" : [ ],
+    "portada" : "Media/SnoopDog.jpg"
+  }
+}
